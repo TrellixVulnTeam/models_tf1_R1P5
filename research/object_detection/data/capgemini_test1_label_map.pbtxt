@@ -1,0 +1,75 @@
+item {
+  name: "Kipfilet"
+  id: 1
+  display_name: "Kipfilet"
+}
+item {
+  name: "Liver_pate"
+  id: 2
+  display_name: "Liver_pate"
+}
+item {
+  name: "Danio_Strawberry"
+  id: 3
+  display_name: "Danio_Strawberry"
+}
+item {
+  name: "soft_bun"
+  id: 4
+  display_name: "soft_bun"
+}
+item {
+  name: "Vifit_Drink_Yogurt"
+  id: 5
+  display_name: "Vifit_Drink_Yogurt"
+}
+item {
+  name: "pepper_cervelate"
+  id: 6
+  display_name: "pepper_cervelate"
+}
+item {
+  name: "Tuna_Salad"
+  id: 7
+  display_name: "Tuna_Salad"
+}
+item {
+  name: "Naranja"
+  id: 8
+  display_name: "Naranja"
+}
+item {
+  name: "Mantega"
+  id: 9
+  display_name: "Mantega"
+}
+item {
+  name: "Yogur_frambuesa"
+  id: 10
+  display_name: "Yogur_frambuesa"
+}
+item {
+  name: "Yogur_vainilla"
+  id: 11
+  display_name: "Yogur_vainilla"
+}
+item {
+  name: "Kiwi"
+  id: 12
+  display_name: "Kiwi"
+}
+item {
+  name: "Brick"
+  id: 13
+  display_name: "Brick"
+}
+item {
+  name: "Kip_sate"
+  id: 14
+  display_name: "Kip_sate"
+}
+item {
+  name: "Pan"
+  id: 15
+  display_name: "Pan"
+}

@@ -1,0 +1,50 @@
+item {
+  name: "Bebida"
+  id: 1
+  display_name: "Bebida"
+}
+item {
+  name: "Plato_principal"
+  id: 2
+  display_name: "Plato_principal"
+}
+item {
+  name: "Fruita"
+  id: 3
+  display_name: "Fruita"
+}
+item {
+  name: "Iogurt"
+  id: 4
+  display_name: "Iogurt"
+}
+item {
+  name: "Ensalada"
+  id: 5
+  display_name: "Ensalada"
+}
+item {
+  name: "Postre_casero"
+  id: 6
+  display_name: "Postre_casero"
+}
+item {
+  name: "Pa"
+  id: 7
+  display_name: "Pa"
+}
+item {
+  name: "Capsula"
+  id: 8
+  display_name: "Capsula"
+}
+item {
+  name: "Sopa"
+  id: 9
+  display_name: "Sopa"
+}
+item {
+  name: "Producto"
+  id: 10
+  display_name: "Producto"
+}
